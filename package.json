@@ -1,6 +1,6 @@
 {
 
-  "name": "dylux-bot",
+  "name": "NinoNakano",
 
   "version": "0.0.5",
   "description": "WhatsApp Bot Baileys",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FG98F/dylux-bot.git"
+    "url": "git+https://github.com/ZeroTwo4k/NinoNakano"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
@@ -63,10 +63,10 @@
     "start": "node start.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "FG98",
+  "author": "ZeroTwo4k",
   "license": "MIT license",
   "bugs": {
-    "url": "https://github.com/FG98F/dylux-bot/issues"
+    "url": "https://github.com/ZeroTwo4k/NinoNakano/issues"
   },
-  "homepage": "https://github.com/FG98F/dylux-bot/"
+  "homepage": "https://github.com/ZeroTwo4k/NinoNakano/"
 }
